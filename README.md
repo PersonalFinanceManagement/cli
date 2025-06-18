@@ -1,2 +1,3 @@
-# finManCli
-Finance manager cli application.
+## Cli application
+the finance manager cli application.
+
