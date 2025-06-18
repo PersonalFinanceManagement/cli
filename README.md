@@ -1,2 +1,2 @@
-# finMan-cli
+# finManCli
 Finance manager cli application.
