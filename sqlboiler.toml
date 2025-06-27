@@ -1,0 +1,5 @@
+[sqlite3]
+  dbname = "fpm.db"
+  output = "adapter/repository/models"
+  pkgname = "models"
+  blacklist = ["schema_migrations"]

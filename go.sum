@@ -1,5 +1,7 @@
 github.com/PersonalFinanceManagement/common v0.1.0 h1:kxgJkyFc6csB2CzSAIqoFELnT475cTfAbSdAvzMj4/o=
 github.com/PersonalFinanceManagement/common v0.1.0/go.mod h1:124/oWGwPz1R8Yz/fUrk2GwZyohslxZ39JG0LjVSu7U=
+github.com/PersonalFinanceManagement/domain v0.0.0-20250625123107-6edfaf9ffc95 h1:5s3nlhsYon6uZlfy7IMNhja779Cb05nfrkAtPDRMq6A=
+github.com/PersonalFinanceManagement/domain v0.0.0-20250625123107-6edfaf9ffc95/go.mod h1:39/nyyez0cRQDzbt5RwJOLlH1Ep/FVBhECzTZUaIVeU=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
